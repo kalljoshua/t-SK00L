@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\information_outline.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\information_outline.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\github_circle.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\github_circle.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\account.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\account.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\flag.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\flag.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\twitter.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\twitter.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bug.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\bug.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\star.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\star.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\google_play.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\google_play.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\heart.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\heart.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dictionary.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dictionary.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\google_plus.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\google_plus.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\clock.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\clock.png"
+    }
+]

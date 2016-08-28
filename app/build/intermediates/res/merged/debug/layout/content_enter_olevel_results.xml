@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:id="@+id/scrollableContents"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="7dp">
+
+
+        <LinearLayout
+            android:id="@+id/layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:orientation="vertical"
+            tools:context=".EnterResultsO">
+
+            <TextView
+                android:id="@+id/math"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:ems="10"
+                android:focusableInTouchMode="true"
+                android:text="@string/math"
+                android:textColor="#000000"
+                android:textIsSelectable="true"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editmath"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dyno_et"
+                android:background="#FFFFFF"
+                android:ems="10"
+                android:focusableInTouchMode="true"
+                android:hint="@string/enter"
+                android:paddingLeft="8dp" />
+
+            <TextView
+                android:id="@+id/physics"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:ems="10"
+                android:text="@string/physics"
+                android:textColor="#000000"
+                android:textIsSelectable="true"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editphysics"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dyno_et"
+                android:background="#FFFFFF"
+                android:ems="10"
+                android:focusableInTouchMode="true"
+                android:hint="@string/enter"
+                android:paddingLeft="8dp" />
+
+            <TextView
+                android:id="@+id/chemistry"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:ems="10"
+                android:text="@string/chemistry"
+                android:textColor="#000000"
+                android:textIsSelectable="true"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editchemistry"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dyno_et"
+                android:background="#FFFFFF"
+                android:ems="10"
+                android:focusableInTouchMode="true"
+                android:hint="@string/enter"
+                android:paddingLeft="8dp" />
+
+            <TextView
+                android:id="@+id/biology"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:ems="10"
+                android:text="@string/biology"
+                android:textColor="#000000"
+                android:textIsSelectable="true"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editbiology"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dyno_et"
+                android:background="#FFFFFF"
+                android:ems="10"
+                android:focusableInTouchMode="true"
+                android:hint="@string/enter"
+                android:paddingLeft="8dp" />
+
+            <TextView
+                android:id="@+id/history"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:ems="10"
+                android:text="@string/history"
+                android:textColor="#000000"
+                android:textIsSelectable="true"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/edithistory"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dyno_et"
+                android:background="#FFFFFF"
+                android:ems="10"
+                android:focusableInTouchMode="true"
+                android:hint="@string/enter"
+                android:paddingLeft="8dp" />
+
+            <TextView
+                android:id="@+id/geography"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:ems="10"
+                android:text="@string/geography"
+                android:textColor="#000000"
+                android:textIsSelectable="true"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editgeography"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dyno_et"
+                android:background="#FFFFFF"
+                android:ems="10"
+                android:focusableInTouchMode="true"
+                android:hint="@string/enter"
+                android:paddingLeft="8dp" />
+
+            <TextView
+                android:id="@+id/english"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:ems="10"
+                android:text="@string/english"
+                android:textColor="#000000"
+                android:textIsSelectable="true"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editenglish"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dyno_et"
+                android:background="#FFFFFF"
+                android:ems="10"
+                android:focusableInTouchMode="true"
+                android:hint="@string/enter"
+                android:paddingLeft="8dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

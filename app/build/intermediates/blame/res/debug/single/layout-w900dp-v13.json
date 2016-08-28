@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\layout-w900dp-v13\\college_list.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\layout-w900dp\\college_list.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\layout-w900dp-v13\\courseslist_list.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\layout-w900dp\\courseslist_list.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\layout-w900dp-v13\\processedchoices_list.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\layout-w900dp\\processedchoices_list.xml"
+    }
+]

@@ -1,0 +1,13 @@
+CHANGED,E:\Android\newProjects\CourseHandler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\icon256bliss\android\coursehandler\R$layout$override.class
+CHANGED,E:\Android\newProjects\CourseHandler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\icon256bliss\android\coursehandler\R$override.class
+CHANGED,E:\Android\newProjects\CourseHandler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$drawable$override.class
+CHANGED,E:\Android\newProjects\CourseHandler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\icon256bliss\android\coursehandler\R$style$override.class
+CHANGED,E:\Android\newProjects\CourseHandler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$drawable$override.class
+CHANGED,E:\Android\newProjects\CourseHandler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\icon256bliss\android\coursehandler\R$integer$override.class
+CHANGED,E:\Android\newProjects\CourseHandler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\icon256bliss\android\coursehandler\R$drawable$override.class
+CHANGED,E:\Android\newProjects\CourseHandler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\icon256bliss\android\coursehandler\R$styleable$override.class
+CHANGED,E:\Android\newProjects\CourseHandler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\icon256bliss\android\coursehandler\R$string$override.class
+CHANGED,E:\Android\newProjects\CourseHandler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\icon256bliss\android\coursehandler\R$id$override.class
+CHANGED,E:\Android\newProjects\CourseHandler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\icon256bliss\android\coursehandler\R$menu$override.class
+CHANGED,E:\Android\newProjects\CourseHandler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,E:\Android\newProjects\CourseHandler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\icon256bliss\android\coursehandler\R$mipmap$override.class

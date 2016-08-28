@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+
+    <ScrollView
+        android:id="@+id/scrollableContents"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:id="@+id/layouta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            tools:context=".EnterResultsO">
+
+            <TextView
+                android:id="@+id/generalpaper"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:ems="10"
+                android:text="@string/generalpaper"
+                android:textColor="#000000"
+                android:textIsSelectable="true"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editgeneralpaper"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dyno_et"
+                android:background="#FFFFFF"
+                android:ems="10"
+                android:focusableInTouchMode="true"
+                android:hint="@string/enter"
+                android:paddingLeft="8dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

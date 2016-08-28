@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">t\'SK00L</string>
+    <string name="universities">Universities</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="Prerequisites">Prerequisites</string>
+    <string name="title_activity_process_results">Prerequisites</string>
+    <string name="title_activity_olevel_selector">O-level optionals</string>
+
+    <!-- subject labels  -->
+    <string name="physics">Physics</string>
+    <string name="math">Math</string>
+    <string name="enter">Enter Grades(D,C,P,F)</string>
+    <string name="btn_display">Next</string>
+    <string name="economics">Economics</string>
+    <string name="english">English</string>
+    <string name="fineart">Fine Art</string>
+    <string name="biology">Biology</string>
+    <string name="history">History</string>
+    <string name="chemistry">Chemistry</string>
+    <string name="geography">Geography</string>
+    <string name="computer">Computer</string>
+    <string name="submath">Sub Math</string>
+    <string name="generalpaper">General Paper</string>
+    <string name="literature">Literature</string>
+    <string name="agriculture">Agriculture</string>
+    <string name="luganda">Luganda</string>
+    <string name="cre">Christian Religious Education</string>
+    <string name="addmath">Additional Math</string>
+    <string name="Homeeconomics">Home Economics</string>
+    <string name="germany">Germany</string>
+    <string name="arabic">Arabic</string>
+    <string name="latin">Latin</string>
+    <string name="music">Music</string>
+    <string name="political">Political Education</string>
+    <string name="metalwork">Metal Work</string>
+    <string name="kiswahili">Kiswahili</string>
+    <string name="tdrawing">Technical Drawing</string>
+    <string name="french">French</string>
+    <string name="foodandnutrition">Food and Nutrition</string>
+    <string name="title_activity_enter_olevel_results">O-level results</string>
+    <string name="title_activity_alevel_selector">A-level combination</string>
+    <string name="title_activity_enter_alevel_results">A-Level results</string>
+    <string name="title_activity_calculate">List Of Your Courses</string>
+
+    //login and register
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_number">07XXXXXXXXXXXXXXX</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="title_activity_login">Sign In</string>
+    <string name="title_activity_register">Register</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">COURSE HANDLER</string>
+    <string name="slide_1_desc">The easiest way to chart the route to your academic career!</string>
+
+    <string name="slide_2_title">Ease To Calculate</string>
+    <string name="slide_2_desc1">Browse through the details of the different Courses offered at Universities!</string>
+    <string name="slide_2_desc2">With just your results, find out which courses you\'re fit to pursue!</string>
+
+    <string name="slide_3_title">Welcome</string>
+    <string name="slide_3_desc">Get connected with Course Handler and have your life simplified!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="topic_activity_label">Help Topic</string>
+    <string name="title_activity_about">About</string>
+
+    <string name="if_you_like_the_app_please_do_rate_it">If you like the app, please do rate it.</string>
+    <string name="changelog">Changelog</string>
+    <string name="licenses">Licenses</string>
+    <string name="developer">Developer</string>
+    <string name="opportunities">Opportunities</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_place_of_living">Lives and Businesses Simplified</string>
+    <string name="add_to_google_plus_circles">Add to Google Plus Circles</string>
+    <string name="follow_on_facebook">Follow on Facebook</string>
+    <string name="follow_on_twitter">Follow on Twitter</string>
+    <string name="more_apps">More Apps</string>
+    <string name="support">Support</string>
+    <string name="report_bugs_feedback">Report Bugs/Feedback</string>
+    <string name="report_bugs_or_request_new_features">Report Bugs or request new features.</string>
+    <string name="translators">Translators</string>
+    <string name="translators_who_helped_in_translating_the_app">Translators who helped in translating the App.</string>
+    <string name="donate">Donate</string>
+    <string name="if_you_think_i_deserve_to_get_paid_for_my_work_you_can_leave_me_a_few_dollars_here">If you think, I deserve to get paid for my work, you can leave me a few dollars here.</string>
+    <string name="your_description">Your Description</string>
+    <string name="your_role">Your Role</string>
+    <string name="google_plus">google plus</string>
+    <string name="github">github</string>
+    <string name="apps">apps</string>
+    <string name="about">About</string>
+    <string name="developers">Developers</string>
+    <string name="twitter">Twitter</string>
+    <string name="version">Version</string>
+    <string name="rate">Rate</string>
+    <string name="essentials">Essentials</string>
+    <string name="relevants">Relevants</string>
+
+    <string name="desc">I am Student, pursuing Information Technology and an Android Enthusiast and Developer.\nI have developed this About Screen and Many Other Apps on Google Play Store which you can find more about by Clicking MY APPS.\nYou can also check my other Projects on Github.\n\nDesigned and Developed by:\n<b>Prasad Shirvandkar</b></string>
+    <string name="title_activity_feed_back">Feed Back</string>
+    <string name="title_college_list">Items</string>
+    <string name="title_college_detail">College Detail</string>
+
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="logo">logo</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="action_uni_details">Details</string>
+    <string name="action_search">Search</string>
+    <string name="title_courseslist_list">Items</string>
+    <string name="title_courseslist_detail">Course details</string>
+    <string name="title_processedchoices_list">Possible choices</string>
+    <string name="title_processedchoices_detail">ProcessedChoices Detail</string>
+
+    <string name="button_feedback">Send feedback</string>
+    <string name="title_send_feedback">Send feedback</string>
+
+    <string name="mail_feedback_email">info@icon256bliss.com</string>
+    <string name="mail_feedback_subject">Feedback on Our Application</string>
+    <string name="mail_feedback_message">Hi,
+\n\nYour Course Handler app rocks! I would like to give you some feedback:</string>
+
+</resources>

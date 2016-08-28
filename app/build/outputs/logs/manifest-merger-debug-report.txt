@@ -1,0 +1,248 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:2:1-118:12
+	xmlns:android
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:8:5-116:19
+MERGED from [com.android.support:support-v4:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\AndroidManifest.xml:5:5-19
+MERGED from [com.android.support:cardview-v7:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:11:9-45
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:9:9-38
+activity#com.icon256bliss.android.coursehandler.WelcomeActivity
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:16:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.icon256bliss.android.coursehandler.Universities
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:25:9-28:59
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:27:13-49
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:26:13-41
+activity#com.icon256bliss.android.coursehandler.EnterPrerequisites
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:29:9-32:59
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:31:13-67
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:30:13-47
+activity#com.icon256bliss.android.coursehandler.OlevelSelector
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:33:9-36:59
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:35:13-67
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:34:13-43
+activity#com.icon256bliss.android.coursehandler.EnterOlevelResults
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:37:9-40:59
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:39:13-72
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:38:13-47
+activity#com.icon256bliss.android.coursehandler.AlevelSelector
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:41:9-44:59
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:43:13-67
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:42:13-43
+activity#com.icon256bliss.android.coursehandler.EnterALevelResults
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:45:9-48:59
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:47:13-72
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:46:13-47
+activity#com.icon256bliss.android.coursehandler.Calculate
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:49:9-52:59
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:51:13-61
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:52:13-56
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:50:13-38
+activity#com.icon256bliss.android.coursehandler.LoginActivity
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:53:9-56:59
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:55:13-57
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:56:13-56
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:54:13-42
+activity#com.icon256bliss.android.coursehandler.RegisterActivity
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:57:9-60:59
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:59:13-60
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:60:13-56
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:58:13-45
+activity#com.icon256bliss.android.coursehandler.HelpActivity
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:61:9-64:59
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:63:13-57
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:64:13-56
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:62:13-41
+activity#com.icon256bliss.android.coursehandler.TopicActivity
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:65:9-68:59
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:67:13-57
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:68:13-56
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:66:13-42
+activity#com.icon256bliss.android.coursehandler.AboutActivity
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:69:9-72:47
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:71:13-57
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:72:13-44
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:70:13-42
+activity#com.icon256bliss.android.coursehandler.FeedBack
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:73:9-76:47
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:75:13-61
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:76:13-44
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:74:13-37
+activity#com.icon256bliss.android.coursehandler.CollegeListActivity
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:77:9-80:47
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:79:13-55
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:78:13-48
+activity#com.icon256bliss.android.coursehandler.CollegeDetailActivity
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:81:9-89:20
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:83:13-57
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:85:13-44
+	android:parentActivityName
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:84:13-62
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:82:13-50
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:86:13-88:94
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:87:17-63
+	android:value
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:88:17-91
+activity#com.icon256bliss.android.coursehandler.CoursesListListActivity
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:90:9-93:47
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:92:13-59
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:93:13-44
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:91:13-52
+activity#com.icon256bliss.android.coursehandler.CoursesListDetailActivity
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:94:9-102:20
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:96:13-61
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:98:13-44
+	android:parentActivityName
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:97:13-66
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:95:13-54
+activity#com.icon256bliss.android.coursehandler.ProcessedChoicesListActivity
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:103:9-106:56
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:105:13-64
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:106:13-44
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:104:13-57
+activity#com.icon256bliss.android.coursehandler.ProcessedChoicesDetailActivity
+ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:107:9-115:20
+	android:label
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:109:13-66
+	android:theme
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:111:13-44
+	android:parentActivityName
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:110:13-71
+	android:name
+		ADDED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml:108:13-59
+uses-sdk
+INJECTED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:recyclerview-v7:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\AndroidManifest.xml:3:5-72
+MERGED from [com.android.support:cardview-v7:22.2.1] E:\Android\newProjects\CourseHandler\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\newProjects\CourseHandler\app\src\main\AndroidManifest.xml

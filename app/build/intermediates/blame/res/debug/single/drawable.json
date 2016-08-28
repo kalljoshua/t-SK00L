@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_send_white_48dp.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\ic_send_white_48dp.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rel_map_default.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\rel_map_default.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_power_settings_new_black_48dp.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\ic_power_settings_new_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rel_map_selected.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\rel_map_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snackbar_background.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\drawable\\snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\venn_2_default.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\venn_2_default.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lock_black_48dp.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\ic_lock_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\venn_2_pressed.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\venn_2_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_help_black_48dp.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\ic_help_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_image1.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\help_image1.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_perm_data_setting_black_48dp.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\ic_perm_data_setting_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\light_bulb_pressed.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\light_bulb_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\evo_revo_incr_default.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\evo_revo_incr_default.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\light_bulb_default.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\light_bulb_default.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_image4.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\help_image4.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_image2.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\help_image2.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\evo_revo_incr_pressed.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\evo_revo_incr_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lock_open_black_48dp.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\ic_lock_open_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_widget.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\logo_widget.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_image3.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\help_image3.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home_black_48dp.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\ic_home_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share_black_48dp.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\ic_share_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_memory_black_48dp.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\ic_memory_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rel_map_pressed.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\rel_map_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home_white_48dp.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\ic_home_white_48dp.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cal_vector.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\cal_vector.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_info_outline_black_48dp.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\ic_info_outline_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_bg.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\edittext_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\evo_revo_incr_selected.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\evo_revo_incr_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\light_bulb_selected.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\light_bulb_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_background.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_help_outline_black_48dp.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\ic_help_outline_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\venn_2_selected.png",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\drawable\\venn_2_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    }
+]

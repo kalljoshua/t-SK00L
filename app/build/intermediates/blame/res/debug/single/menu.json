@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_drawer.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\menu\\main_drawer.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\menu\\college_list.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\menu\\college_list.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\menu\\course_list.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\menu\\course_list.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_album.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\src\\main\\res\\menu\\menu_album.xml"
+    }
+]

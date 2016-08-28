@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.icon256bliss.android.coursehandler"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.icon256bliss.android.coursehandler.AppController"
+        android:allowBackup="true"
+        android:icon="@drawable/logo_widget"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.WelcomeActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.Universities"
+            android:label="@string/universities"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.EnterPrerequisites"
+            android:label="@string/title_activity_process_results"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.OlevelSelector"
+            android:label="@string/title_activity_olevel_selector"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.EnterOlevelResults"
+            android:label="@string/title_activity_enter_olevel_results"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.AlevelSelector"
+            android:label="@string/title_activity_alevel_selector"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.EnterALevelResults"
+            android:label="@string/title_activity_enter_alevel_results"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.Calculate"
+            android:label="@string/title_activity_calculate"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.HelpActivity"
+            android:label="@string/topic_activity_label"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.TopicActivity"
+            android:label="@string/topic_activity_label"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.AboutActivity"
+            android:label="@string/title_activity_about"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.FeedBack"
+            android:label="@string/title_activity_feed_back"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.CollegeListActivity"
+            android:label="@string/title_college_list"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.CollegeDetailActivity"
+            android:label="@string/title_college_detail"
+            android:parentActivityName="com.icon256bliss.android.coursehandler.CollegeListActivity"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.icon256bliss.android.coursehandler.CollegeListActivity" />
+        </activity>
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.CoursesListListActivity"
+            android:label="@string/title_courseslist_list"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.CoursesListDetailActivity"
+            android:label="@string/title_courseslist_detail"
+            android:parentActivityName="com.icon256bliss.android.coursehandler.CoursesListListActivity"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.icon256bliss.android.coursehandler.CoursesListListActivity" />
+        </activity>
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.ProcessedChoicesListActivity"
+            android:label="@string/title_processedchoices_list"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.icon256bliss.android.coursehandler.ProcessedChoicesDetailActivity"
+            android:label="@string/title_processedchoices_detail"
+            android:parentActivityName="com.icon256bliss.android.coursehandler.ProcessedChoicesListActivity"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.icon256bliss.android.coursehandler.ProcessedChoicesListActivity" />
+        </activity>
+    </application>
+
+</manifest>

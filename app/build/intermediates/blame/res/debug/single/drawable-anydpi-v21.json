@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\flag.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\flag.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\heart.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\heart.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dictionary.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dictionary.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\clock.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\clock.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\information_outline.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\information_outline.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\google_plus.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\google_plus.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\twitter.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\twitter.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\star.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\star.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\github_circle.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\github_circle.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\account.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\account.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\bug.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\bug.xml"
+    },
+    {
+        "merged": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\google_play.xml",
+        "source": "E:\\Android\\newProjects\\CourseHandler\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\google_play.xml"
+    }
+]
